@@ -1,4 +1,5 @@
 {
   "meituan": "imeituan://www.meituan.com/web?url=http%3A%2F%2Fdpurl.cn%2FoB2dwr7z",
-  "meituan_waimai": "imeituan://www.meituan.com/web?url=http%3A%2F%2Fdpurl.cn%2FoB2dwr7z"
+  "meituan_waimai": "imeituan://www.meituan.com/web?url=http%3A%2F%2Fdpurl.cn%2FoB2dwr7z",
+  "taobao": "tbopen://m.taobao.com/tbopen/index.html?&action=ali.open.nav&module=h5&h5Url=https%3A%2F%2Fm.duanqu.com%2F%3F_ariver_appid%3D8251537%26page%3Dplugin-private%253A%252F%252F2021004134685665%252Fpages%252Ftaoke-guide%252Findex%253Ffrom%253Dminiapp.taobao%2526channelInfo%253D%257B%2522subSubChannel%2522%253A%2522miniapp.taobao.et%2522%257D%2526alsc_exsrc%253DES0006299852%2526scene%253D97f398083db54ffd85249f8012a48a01"
 }
